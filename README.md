@@ -1,11 +1,11 @@
 # dependencia-entre-camadas
 Projeto criado para estudo de dependência entre camadas.
 
-# Stack principal
+# stack principal
 - .NET Framework 4.7.2
 - SQL Server
 
-# Dependências
+# dependências
 | Camada | Dependências |
 | ------ | ------------ |
 | Dados | Nenhuma |
